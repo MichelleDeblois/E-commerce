@@ -6,24 +6,27 @@ The stack is React.Js, Node.Js, and styled-components.
 
 Your node server is RESTful and follows REST principles.
 
-## to run the website
+## Local Development
 
-Open 2 terminals:
+To run the frontend:
 
-To run the frontend (client):
-
-cd client
-yarn install
-yarn start
+- `cd client`
+- `yarn install`
+- `yarn start`
 
 To run the backend (server):
 
-cd server
-yarn install
-yarn start
+- `cd server`
+- `yarn install`
+- `yarn start`
 
+## Screen shot
 
-## Getting Started
-
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
+<img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
 <img src="./server/assets/software-dev-path.jpg" style="width: 100%;" />
 
